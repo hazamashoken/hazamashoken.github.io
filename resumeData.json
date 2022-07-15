@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Thanapol Liangsoonthornsit",
+    "occupation": "Hobbyist Programmer",
+    "description": "Currently a student at PSB Academy and a Cadet at 42 Ecole Bangkok. I like to slap my keyboard until everything works",
+    "image": "profilepic.jpg",
+    "bio": "I'm a hobbyist programmer looking to explore a new way to implement ideas in to reality with code.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "earth78203@gmail.com",
+    "phone": "9836-8410",
+    "address": {
+      "city": "Singapore"
+    },
+    "website": "hazamashoken.github.io",
+    "resumedownload": "https://drive.google.com/file/d/1HAbtDkIcZewXIL5ARwteOahmbHGUWis4/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/earth.backtrack",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/thanapol-liangsoonthornsit-423a67168/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/hazamashoken/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/hazamashoken",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "PSB Academy",
+        "degree": "Diploma in IT",
+        "graduated": "Present",
+        "description": "Just starting out in a journey into IT."
+      },
+      {
+        "school": "42 Ecole Bangkok",
+        "degree": "Coding from scratch",
+        "graduated": "Present",
+        "description": "42 is a private, nonprofit and tuition-free computer science school."
+      }
+    ],
+    "work": [
+      {
+        "company": "Awesome Design Studio",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Python3",
+        "level": "70%" 
+      },
+      {
+        "name": "C",
+        "level": "70%"
+      },
+      {
+        "name": "HTML",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "JS",
+        "level": "60%"
+      },
+      {
+        "name": "React",
+        "level": "60%"
+      },
+      {
+        "name": "Redux",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "60%"
+      },
+      {
+        "name": "Data Structure",
+        "level": "60%"
+      },
+      {
+        "name": "PHP",
+        "level": "40%"
+      },
+      {
+        "name": "C++",
+        "level": "40%"
+      },
+      {
+        "name": "Kotlin",
+        "level": "40%"
+      },
+      {
+        "name": "Shell",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "",
+        "url": "http://hazamashoken.github.io"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
